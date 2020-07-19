@@ -3,13 +3,12 @@ static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
 	{"", "~/scripts/clock",					60,		12},
 	
-	{"", "~/scripts/dt",	                60,		0},
 
 	{"", "~/scripts/volume",						0,		10},
 
 	{"", "~/scripts/battery",					60,		0},
     
-//	{"", "~/scripts/dt",	                60,		0},
+	{"", "~/scripts/dt",	                60,		0},
 	
 };
 
